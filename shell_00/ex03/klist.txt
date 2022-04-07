@@ -1,0 +1,5 @@
+Credentials cache: API:6C035293-2BF6-4289-8FD0-AC0563B8379E
+        Principal: zrdouane@1337.MA
+
+  Issued                Expires               Principal
+Sep 28 11:00:32 2021  Sep 28 21:00:25 2021  krbtgt/1337.MA@1337.MA
